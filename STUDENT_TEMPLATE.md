@@ -234,7 +234,7 @@ What part of creating, committing, and pushing this repository was hardest for y
 
 If nothing was difficult, explain the Git/GitHub workflow in your own words.
 
-Submission
+### Submission
 
 Submit the URL to your GitHub repository.
 
